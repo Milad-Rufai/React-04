@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import "./Post.css";
+import "./style/Post.css";
 import Title from "./title";
 import ReleaseDate from "./release-date";
 import OpeningCrawl from "./OpeningCrawl";
